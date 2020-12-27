@@ -7,3 +7,4 @@ I am master.
 I am from sub 1.
 I am from sub 2.
 test new merge
+First commit
